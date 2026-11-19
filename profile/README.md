@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://materiastudios.it/">
-    <img src="./banner.png" alt="Materia Studios" width="100%" />
+    <img src="../banner.png" alt="Materia Studios" width="100%" />
   </a>
 
   <br />
